@@ -6,3 +6,5 @@ external protection has limitations, so it is now an internal hack
 Fixed a problem with many internal hacks that caused the hack software itself to crash. The hack software ignores the crash issue. Added the ability to reinject cheats in-game. Re-injection time 5-10 seconds GTA5 restart not required
 Status:Undetected
 I am not responsible for any events caused by this tool.
+
+Critical bug fixed 11/8
